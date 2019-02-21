@@ -2,9 +2,6 @@ initial
 comment1
 commaent 2
 aaaaaaaaaa
-<<<<<<< .mine
 
-=======
-
->>>>>>> .theirs
-mast1reb1
+reb1
+reb2
